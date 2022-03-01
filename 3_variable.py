@@ -21,7 +21,7 @@ print("user_year")
 #11
 user_username = "Abdalabdul"   
 #12
-user_school = "king_high_school"
+user_school = "king high school"
 #13
 user_favourite = "burger"
 #14
